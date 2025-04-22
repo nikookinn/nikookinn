@@ -3,7 +3,7 @@ I'm a passionate Java Backend Developer
 
 - 🔭 I’m currently working on my personal Spring Boot Microservices project.
 - 🌱 I’m learning Kubernetes and system design.
-- 💬 Ask me about Java, Spring, Git, or system architecture.
+- 💬 Ask me about Java, Spring, Microservices, or system architecture.
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikookinn&show_icons=true&theme=radical)
