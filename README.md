@@ -1,7 +1,7 @@
 # Hi, I'm Nicat 👋
-I'm a passionate Java Backend Developer with 5+ years of experience.
+I'm a passionate Java Backend Developer
 
-- 🔭 I’m currently working on a Spring Boot Microservices project.
+- 🔭 I’m currently working on my personal Spring Boot Microservices project.
 - 🌱 I’m learning Kubernetes and system design.
 - 💬 Ask me about Java, Spring, Git, or system architecture.
 
@@ -13,5 +13,4 @@ I'm a passionate Java Backend Developer with 5+ years of experience.
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/senin-adresin)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&style=for-the-badge)](https://leetcode.com/senin-adresin)
 
